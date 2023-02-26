@@ -1,3 +1,0 @@
-".\Objects\Multiply.obj" 
-TO ".\Objects\Programs" 
-PRINT(".\Listings\Programs.m51")
